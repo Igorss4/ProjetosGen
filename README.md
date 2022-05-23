@@ -1,5 +1,5 @@
 
-# Projeto Blog Pessoal!
+# Projeto Projeto GenRPG!
 
 Repositório criado para o projeto da Generation.
 
